@@ -1,6 +1,8 @@
 # Profile
 # 💫 About Me:
-I'm currently working on a full stack clone of yelp.com<br>Looking to collaborate with other developers to enhance my knowledge.<br>Currently learning to advance my skills with React<br>I enjoy playing billiards & watching walkthroughs of interesting projects.<br><br>
+🏫 I am a recent graduate of App Academy currently looking for opportunities to expand my knowledge in the Tech World!
+😃 I enjoy snowboarding, playing video games, and watching anime.
+<br><br>
 
 
 ## 🌐 Socials:
@@ -13,8 +15,7 @@ I'm currently working on a full stack clone of yelp.com<br>Looking to collaborat
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Justinguu&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Justinguu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Justinguu&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Justinguu&icon=9&color=3)](https://visitcount.itsvg.in)
